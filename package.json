@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Guess Number course project",
+  "main": "index.html",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "*"
+  }
+}
